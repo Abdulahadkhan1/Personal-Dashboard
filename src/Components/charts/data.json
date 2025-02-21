@@ -1,0 +1,22 @@
+[
+  { "month": "January", "name": "Salary", "amount": 5000 },
+  { "month": "January", "name": "Bills", "amount": -1200 },
+  { "month": "January", "name": "Fuel", "amount": -300 },
+  { "month": "January", "name": "Food", "amount": -600 },
+  { "month": "January", "name": "Clothes", "amount": -400 },
+  { "month": "January", "name": "Promotion", "amount": 800 },
+
+  { "month": "February", "name": "Salary", "amount": 5100 },
+  { "month": "February", "name": "Bills", "amount": -1300 },
+  { "month": "February", "name": "Fuel", "amount": -350 },
+  { "month": "February", "name": "Food", "amount": -650 },
+  { "month": "February", "name": "Clothes", "amount": -300 },
+  { "month": "February", "name": "Promotion", "amount": 700 },
+
+  { "month": "March", "name": "Salary", "amount": 5200 },
+  { "month": "March", "name": "Bills", "amount": -1250 },
+  { "month": "March", "name": "Fuel", "amount": -400 },
+  { "month": "March", "name": "Food", "amount": -700 },
+  { "month": "March", "name": "Clothes", "amount": -500 },
+  { "month": "March", "name": "Promotion", "amount": 750 }
+]
